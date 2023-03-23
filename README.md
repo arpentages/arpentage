@@ -22,16 +22,6 @@ Pour :
 
 * parler de quels besoins nous sommes en train de nourir en tant qu'organisatrices en faisant cet arpentage ?
 
-# Session du 22 mars : rétro-planning que manque-t'il pour l'arpentage ?
-
-* Lorsqu'une connaissance est morte on l'appelle académie* Thomas Bernhard, cité par Paul B Préciado dans "Un appartement sur Uranus"
-* Trigger warning dans le temps des "Le temps des buchers" : torture.
-* Ce qui nous manque :
-- faire un test avec des pages scannées
-- en parler
-- fixer une date : contacter des représentantes de deux groupe anti-sexiste et suivant leur intérêt, déterminer la date en fonction d'elles.
-- Une fois la date connue, l'annoncer sur la place du marché du forum d'agile open france.
-* Ajouter des section "venez si" et "ne venez pas si"
-
 - [1er test d'arpentage - 15 février 2023](2023-02-15-notes-de-travail.html)
 - [2ème test d'arpentage - 22 février 2023](2023-02-22-préparation_le_temps_des_bûchers.html)
+- [rétro planning - 22 mars 2023](2023-03-22-rétro-planning.html)
