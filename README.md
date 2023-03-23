@@ -1,4 +1,4 @@
-# Note d'intention de cette démarche d'arpentage
+# Arpentage : note d'intention
 
 Ce que les organisatrices espèrent que la session va produire :
 * Rencontrer la pensée d'une autrice
