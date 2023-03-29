@@ -26,6 +26,9 @@ Nous publions nos notes pour :
 
 ### Prochaine session de préparation mercredi 29 mars à 15h
 
+#### Comment déterminer l'order de passage ?
+* Lors d'un arpentage en présentiel, les premiers binômes à passé ont exprimé un rejet des idées et/ou de la rigueur (au sens manque d'etayage des idées avancées). Interprétation : plus on avance dans la lecture, plus on a un contexte dans lequel interprété l'autrice et la charité herménotique devient de plus en plus facile. Equivalent d'une lecture en plusieurs passes d'un article compliqué. Dans un arpentage, les premières qui passent apportent plus de contexte que de contenu et c'est générateur de frustrations et de difficultées.
+
 * parler de quels besoins nous sommes en train de nourir en tant qu'organisatrices en faisant cet arpentage ?
 
 #### comment séparer un pdf en morceaux de n pages 
