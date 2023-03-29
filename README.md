@@ -8,7 +8,7 @@ Ce que les organisatrices espèrent que la session va produire :
 # Arpenter "Le temps des bûchers" de Starhawk
 
 ## Ne venez pas si
-* Vous êtes mal à l'aise avec le néo paganisme
+* Vous êtes mal à l'aise avec le paganisme
 * Vous êtes mal à l'aise avec le concept de sorcière
 * Vous détestez le moyen age
 
@@ -24,11 +24,19 @@ Nous publions nos notes pour :
 * permettre aux participantes de choisir de venir en connaissance de cause
 * nous améliorer en comparant leurs retours à nos intentions
 
-### Prochaine session de préparation mercredi 29 mars à 15h
-
 https://arpentages.github.io
 
-#### Comment déterminer l'order de passage ?
+### Sujet de prochaines préparations
+
+* Quels besoins nous sommes en train de nourir en tant qu'organisatrices en faisant cet arpentage ?
+
+prochaine session de préparation mercredi 5 avril 15h
+
+### 3ème test : envoie à distance - 29 mars 2023
+
+Le test : 4 pages lues en 15 minutes et restituées en 10 minutes par personne (total 20')
+
+#### Comment déterminer l'ordre de passage ?
 * Lors d'un arpentage en présentiel, les premiers binômes à passé ont exprimé un rejet des idées et/ou de la rigueur (au sens manque d'etayage des idées avancées). Interprétation : plus on avance dans la lecture, plus on a un contexte dans lequel interprété l'autrice et la charité herménotique devient de plus en plus facile. Equivalent d'une lecture en plusieurs passes d'un article compliqué. Dans un arpentage, les premières qui passent apportent plus de contexte que de contenu et c'est générateur de frustrations et de difficultées.
 * la personne qui ouvre la voie est importante. Après cette personne, c’est plus facile pour les autres. Caractéristiques qui aident une personne à ouvrir une voie
   * familiarité avec le domaine du texte (par exemple, pour une prof de Français, et un texte écrit par une critique litéraire)
@@ -36,7 +44,6 @@ https://arpentages.github.io
 * => question du guide de haute montagne. Ce serait sans doute plus facile pour Philippe d’ouvrir.
 * contre argument : celle qui commence (et celle qui finit) a une influence particulière sur le contenu de la conversation.
 
-* parler de quels besoins nous sommes en train de nourir en tant qu'organisatrices en faisant cet arpentage ?
 
 #### comment séparer un pdf en morceaux de n pages 
 
