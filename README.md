@@ -14,10 +14,12 @@ Ce que les organisatrices espèrent que la session va produire :
 
 ## Préparation de l’arpentage
 
-- [1er test d'arpentage - 15 février 2023](2023-02-15-notes-de-travail.html)
-- [2ème test - 22 février 2023](2023-02-22-préparation_le_temps_des_bûchers.html)
-- [rétro planning - 22 mars 2023](2023-03-22-rétro-planning.html)
-- [3ème test : envoie à distance](2023-03-29-rétro-planning.html)
+- [1er test d'arpentage - 15 février 2023](2023-02-15-notes-de-travail.md)
+- [2ème test - 22 février 2023](2023-02-22-préparation_le_temps_des_bûchers.md)
+- 8 mars 2023 publication des notes et découpage des pages du chapitre pour les scanner
+- [rétro planning - 22 mars 2023](2023-03-22-rétro-planning.md)
+- [3ème test : envoi à distance](2023-03-29-rétro-planning.md)
+- 5 avril 2023 : Point sur les contacts - pas de réponse pour l’instant, on contacte donc d’autres personnes
 
 Nous publions nos notes pour :
 
@@ -27,9 +29,14 @@ Nous publions nos notes pour :
 
 https://arpentages.github.io
 
-### Sujet de prochaines préparations
+# Quels besoins nous sommes en train de nourir en tant qu'organisatrices en faisant cet arpentage ?
 
-* Quels besoins nous sommes en train de nourir en tant qu'organisatrices en faisant cet arpentage ?
+Fred : besoin de connexion avec des personnes avec qui j'aurais des afinités
+besoin de stimulation intellectuelle
+Derrière le besoin de stimulation intellectuelle, il y a un besoin de ressourcement par la connaissance et de d'accomplissement de soi par l'apprentissage. Et un besoin de contribution à la vie des autres.
 
-prochaine session de préparation mercredi 5 avril 15h
+Philippe : besoin de stimulation intellectuelle (creuser le texte de Starhawk)
+Pratiquer la technique d'arpentage : besoins d'apprentissage et d'action. Envie de revivre la plaisir de la pratique de la technique d'arpentage.
 
+Derrière le besoin de stimulation intellectuelle il y a une curiosité (besoin de connaissance) et un besoin d'accomplissement.
+Apprentissage
