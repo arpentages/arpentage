@@ -1,4 +1,4 @@
-# 3ème test : envoie à distance - 29 mars 2023
+# 3ème test : envoi à distance - 29 mars 2023
 
 Le test : 4 pages lues en 15 minutes et restituées en 10 minutes par personne (total 20')
 
@@ -11,12 +11,12 @@ Le test : 4 pages lues en 15 minutes et restituées en 10 minutes par personne (
 * contre argument : celle qui commence (et celle qui finit) a une influence particulière sur le contenu de la conversation.
 
 
-## comment séparer un pdf en morceaux de n pages 
+## comment séparer un pdf en morceaux de n pages
 
 [source](https://fosspost.org/divide-pdf-small-chunks-linux-command-line/)
 
 ```
-$ cat ~/bin/pdfsplit.sh 
+$ cat ~/bin/pdfsplit.sh
 #!/usr/bin/bash
 
 number=$(pdfinfo -- "$file" 2> /dev/null | awk '$1 == "Pages:" {print $2}')
@@ -37,7 +37,7 @@ while [ "$count" -gt "$counter" ]; do
   counter=$((counter + 1))
 done
 
-$ pagesper=5 file=E77676H7X112878_01012018_000730_001160.pdf pdfsplit.sh 
+$ pagesper=5 file=E77676H7X112878_01012018_000730_001160.pdf pdfsplit.sh
 
 $ ls E77676H7X112878_01012018_000730_001160*
 E77676H7X112878_01012018_000730_001160_0.pdf   E77676H7X112878_01012018_000730_001160_3.pdf  E77676H7X112878_01012018_000730_001160_7.pdf
@@ -45,3 +45,9 @@ E77676H7X112878_01012018_000730_001160_10.pdf  E77676H7X112878_01012018_000730_0
 E77676H7X112878_01012018_000730_001160_1.pdf   E77676H7X112878_01012018_000730_001160_5.pdf  E77676H7X112878_01012018_000730_001160_9.pdf
 E77676H7X112878_01012018_000730_001160_2.pdf   E77676H7X112878_01012018_000730_001160_6.pdf  E77676H7X112878_01012018_000730_001160.pdf
 ```
+
+Note pratique : commencer dans un répertoire vide, c’est plus pratique pour retrouver ses fichiers.
+
+## Envoyer les fichiers à quelqu’un dans zoom
+
+Il est possible de faire un clic droit sur une fenêtre vidéo pour envoyer un fichier à une participante en particulier.

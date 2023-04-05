@@ -18,11 +18,11 @@ Ce que les organisatrices espèrent que la session va produire :
 
 ## Préparation de l’arpentage
 
-- [1er test d'arpentage - 15 février 2023](2023-02-15-notes-de-travail.md)
-- [2ème test - 22 février 2023](2023-02-22-préparation_le_temps_des_bûchers.md)
-- 8 mars 2023 publication des notes et découpage des pages du chapitre pour les scanner
-- [rétro planning - 22 mars 2023](2023-03-22-rétro-planning.md)
-- [3ème test : envoi à distance](2023-03-29-rétro-planning.md)
+- 15 février 2023 : [1er test d'arpentage](2023-02-15-notes-de-travail.md)
+- 22 février 2023 : [2ème test](2023-02-22-préparation_le_temps_des_bûchers.md)
+- 8 mars 2023 : publication des notes et découpage des pages du chapitre pour les scanner
+- 22 mars 2023 : [rétro planning](2023-03-22-rétro-planning.md)
+- 29 mars 2023 : [3ème test - envoi à distance](2023-03-29-test-avec-envoi-à-distance.md)
 - 5 avril 2023 : Point sur les contacts - pas de réponse pour l’instant, on contacte donc d’autres personnes
 
 Nous publions nos notes pour :
@@ -33,7 +33,7 @@ Nous publions nos notes pour :
 
 https://arpentages.github.io
 
-# Quels besoins nous sommes en train de nourir en tant qu'organisatrices en faisant cet arpentage ?
+# Quels besoins nourissons-nous en organisant cet arpentage ?
 
 Fred : besoin de connexion avec des personnes avec qui j'aurais des afinités
 besoin de stimulation intellectuelle

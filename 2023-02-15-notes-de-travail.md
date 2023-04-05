@@ -1,5 +1,3 @@
----
----
 - texte : rêver l’obscur, de Starhawk : mémoire de recherche de master, « Le temps des bûchers », pages 273 - 326
 - À quel moment ce travail intervient dans son militantisme ?
 - Comment : À distance sur zoom
