@@ -9,7 +9,7 @@ Ce que les organisatrices espèrent que la session va produire :
 * Savoir comment d'autres personnes comprennent un de ses textes
 * Apprendre à arpenter un texte
 
-# Arpenter "Le temps des bûchers" de Starhawk
+# Arpenter _Le temps des bûchers_ de Starhawk
 
 ## Ne venez pas si
 * Vous êtes mal à l'aise avec le paganisme
