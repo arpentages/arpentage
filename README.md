@@ -18,11 +18,11 @@ Ce que les organisatrices espèrent que la session va produire :
 
 ## Préparation de l’arpentage
 
-- 15 février 2023 : [1er test d'arpentage](2023-02-15-notes-de-travail.md)
-- 22 février 2023 : [2ème test](2023-02-22-préparation_le_temps_des_bûchers.md)
+- 15 février 2023 : [1<sup>er</sup> test d'arpentage](2023-02-15-notes-de-travail.md)
+- 22 février 2023 : [2<sup>e</sup> test](2023-02-22-préparation_le_temps_des_bûchers.md)
 - 8 mars 2023 : publication des notes et découpage des pages du chapitre pour les scanner
 - 22 mars 2023 : [rétro planning](2023-03-22-rétro-planning.md)
-- 29 mars 2023 : [3ème test - envoi à distance](2023-03-29-test-avec-envoi-à-distance.md)
+- 29 mars 2023 : [3<sup>e</sup> test - envoi à distance](2023-03-29-test-avec-envoi-à-distance.md)
 - 5 avril 2023 : Point sur les contacts - pas de réponse pour l’instant, on contacte donc d’autres personnes
 
 Nous publions nos notes pour :
