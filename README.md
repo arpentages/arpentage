@@ -34,7 +34,7 @@ Nous publions nos notes pour :
 
 https://arpentages.github.io
 
-# Quels besoins nourissons-nous en organisant cet arpentage ?
+## Quels besoins nourissons-nous en organisant cet arpentage ?
 
 Fred : besoin de connexion avec des personnes avec qui j'aurais des afinités
 besoin de stimulation intellectuelle
