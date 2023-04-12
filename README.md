@@ -1,5 +1,5 @@
 _Sur l’usage du féminin dans cette page_ : nous utilisons le genre féminin comme marqueur grammatical du neutre.
-Il ne faut pas bien sûr y voir de volonté d’exclusion des hommes ou des personnes ne s’identifiant pas à un genre binaire.
+Il ne faut pas bien sûr y voir de volonté d’exclusion des hommes ou des personnes non binaires.
 Ni Philippe ni Fred, les organisatrices, ne s’identifient d’ailleurs comme femmes.
 
 # Arpentage : note d'intention
