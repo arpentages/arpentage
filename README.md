@@ -4,9 +4,9 @@ Ni Philippe ni Fred, les organisatrices, ne s’identifient d’ailleurs comme f
 
 # Arpentage : une lecture collective
 
-Ce que les organisatrices espèrent que la session va produire :
-* Rencontrer la pensée d'une autrice
-* Savoir comment d'autres personnes comprennent un de ses textes
+Nous espérons cette lecture amène à :
+* Rencontrer la pensée de l'autrice
+* Savoir comment d'autres personnes comprennent son texte
 * Apprendre à arpenter un texte
 
 # Arpenter _Le temps des bûchers_ de Starhawk
