@@ -4,6 +4,8 @@ Ni Philippe ni Fred, les organisatrices, ne s’identifient d’ailleurs comme f
 
 # Arpentage : note d'intention
 
+Pas besoin d'avoir acheté le livre ni de l'avoir lu avant. Les quelques pages à lire seront envoyées lors de l'évènement.
+
 Ce que les organisatrices espèrent que la session va produire :
 * Rencontrer la pensée d'une autrice
 * Savoir comment d'autres personnes comprennent un de ses textes
