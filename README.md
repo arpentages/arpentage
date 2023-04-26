@@ -30,7 +30,7 @@ Pas besoin d'avoir acheté le livre ni de l'avoir lu avant. Les quelques pages �
 - 29 mars 2023 : [3<sup>e</sup> test - envoi à distance](2023-03-29-test-avec-envoi-à-distance.md)
 - 5 avril 2023 : Point sur les contacts - pas de réponse pour l’instant, on contacte donc d’autres personnes
 - 12 avril 2023 : Contacts - deux marques d'intérêt. On contacte d'autres participantes potentielles pour fixer une date.
-- 26 avril 2023 : Propose deux dates aux contacts intéressées
+- 26 avril 2023 : Propose deux dates aux contacts intéressées vendredi 2 juin 19h et dimanche 18 juin 19h30.
 
 Nous publions nos notes pour :
 
