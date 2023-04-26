@@ -2,9 +2,7 @@ _Sur l’usage du féminin dans cette page_ : nous utilisons le genre féminin c
 Il ne faut pas bien sûr y voir de volonté d’exclusion des hommes ou des personnes non binaires.
 Ni Philippe ni Fred, les organisatrices, ne s’identifient d’ailleurs comme femmes.
 
-# Arpentage : note d'intention
-
-Pas besoin d'avoir acheté le livre ni de l'avoir lu avant. Les quelques pages à lire seront envoyées lors de l'évènement.
+# Arpentage : une lecture collective
 
 Ce que les organisatrices espèrent que la session va produire :
 * Rencontrer la pensée d'une autrice
@@ -12,6 +10,8 @@ Ce que les organisatrices espèrent que la session va produire :
 * Apprendre à arpenter un texte
 
 # Arpenter _Le temps des bûchers_ de Starhawk
+
+Pas besoin d'avoir acheté le livre ni de l'avoir lu avant. Les quelques pages à lire seront envoyées lors de l'évènement.
 
 ## Ne venez pas si
 * Vous êtes mal à l'aise avec le paganisme
