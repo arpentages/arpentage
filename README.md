@@ -4,13 +4,13 @@ Ni Philippe ni Fred, les organisatrices, ne s’identifient d’ailleurs comme f
 
 # Arpentage : une lecture collective
 Arpenter un texte se déroule en deux phases :
-1. chaque personne lit quelques pages de son coté
-2. elles sont ensuite résumées collectivement.
+* chaque personne lit quelques pages de son coté
+* elles sont ensuite résumées collectivement.
 
 Nous espérons :
 * Rencontrer la pensée de l'autrice
-* Savoir comment d'autres personnes comprennent son texte
-* Apprendre à arpenter un texte
+* Entendre d'autres recevoir son texte
+* S'entrainer à arpenter un texte
 
 # Arpenter _Le temps des bûchers_ de Starhawk
 
