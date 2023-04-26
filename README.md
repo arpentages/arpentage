@@ -3,6 +3,7 @@ Il ne faut pas bien sûr y voir de volonté d’exclusion des hommes ou des pers
 Ni Philippe ni Fred, les organisatrices, ne s’identifient d’ailleurs comme femmes.
 
 # Arpentage : une lecture collective
+Pour arpenter un texte, chaque personne lit quelques pages, qui seront ensuite résumées collectivement.
 
 Nous espérons cette lecture amène à :
 * Rencontrer la pensée de l'autrice
