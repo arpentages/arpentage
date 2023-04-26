@@ -4,8 +4,8 @@ Ni Philippe ni Fred, les organisatrices, ne s’identifient d’ailleurs comme f
 
 # Arpentage : une lecture collective
 Arpenter un texte se déroule en deux phases :
-* chaque personne lit quelques pages de son coté
-* elles sont ensuite résumées collectivement.
+* Chaque personne lit quelques pages de son coté
+* Elles sont ensuite résumées collectivement
 
 Nous espérons :
 * Rencontrer la pensée de l'autrice
