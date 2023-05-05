@@ -28,7 +28,7 @@ Pas besoin d'avoir acheté le livre ni de l'avoir lu avant. Les quelques pages �
 
 ## Quels besoins nourissons-nous en organisant cet arpentage ?
 
-Fred (iel/il) : besoin de connexion avec des personnes avec qui j'aurais des afinités
+Fred (iel/il/elle) : besoin de connexion avec des personnes avec qui j'aurais des afinités
 besoin de stimulation intellectuelle
 Derrière le besoin de stimulation intellectuelle, il y a un besoin de ressourcement par la connaissance et de d'accomplissement de soi par l'apprentissage. Et un besoin de contribution à la vie des autres.
 
