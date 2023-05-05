@@ -2,7 +2,7 @@ _Sur l’usage du féminin dans cette page_ : nous utilisons le genre féminin c
 Il ne faut pas bien sûr y voir de volonté d’exclusion des hommes ou des personnes non binaires.
 Ni Philippe ni Fred, les organisatrices, ne s’identifient d’ailleurs comme femmes.
 
-# Arpentage : une lecture collective
+# Arpentage : 2h de lecture collective
 Arpenter un texte se déroule en deux phases :
 * Chaque personne lit quelques pages de son coté
 * Elles sont ensuite résumées collectivement
