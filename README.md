@@ -3,14 +3,17 @@ Il ne faut pas bien sûr y voir de volonté d’exclusion des hommes ou des pers
 Ni Philippe ni Fred, les organisatrices, ne s’identifient d’ailleurs comme femmes.
 
 # Arpentage : 2h de lecture collective
-Arpenter un texte se déroule en deux phases :
-* Chaque personne lit quelques pages de son coté
-* Elles sont ensuite résumées collectivement
+Arpenter un texte se déroule en trois étapes :
+* Répartir les pages entre les participantes
+* Lire de son coté les pages reçues
+* Restituer ensuite sa partie au groupe
 
 Nous espérons :
 * Rencontrer la pensée de l'autrice
 * Entendre d'autres recevoir son texte
 * S'entrainer à arpenter un texte
+
+https://arpentages.github.io
 
 # Arpenter _Le temps des bûchers_ de Starhawk
 
@@ -21,25 +24,7 @@ Pas besoin d'avoir acheté le livre ni de l'avoir lu avant. Les quelques pages �
 * Vous êtes mal à l'aise avec le concept de sorcière
 * Vous détestez le moyen age
 
-## Préparation de l’arpentage
-
-- 15 février 2023 : [1<sup>er</sup> test d'arpentage](2023-02-15-notes-de-travail.md)
-- 22 février 2023 : [2<sup>e</sup> test](2023-02-22-préparation_le_temps_des_bûchers.md)
-- 8 mars 2023 : publication des notes et découpage des pages du chapitre pour les scanner
-- 22 mars 2023 : [rétro planning](2023-03-22-rétro-planning.md)
-- 29 mars 2023 : [3<sup>e</sup> test - envoi à distance](2023-03-29-test-avec-envoi-à-distance.md)
-- 5 avril 2023 : Point sur les contacts - pas de réponse pour l’instant, on contacte donc d’autres personnes
-- 12 avril 2023 : Contacts - deux marques d'intérêt. On contacte d'autres participantes potentielles pour fixer une date.
-- 26 avril 2023 : Propose deux dates aux contacts intéressées vendredi 2 juin 19h et dimanche 18 juin 19h30.
-- 5 mai 2023 : Points sur les propositions de dates et les contacts.
-
-Nous publions nos notes pour :
-
-* rendre visible la manière dont nous travaillons
-* permettre aux participantes de choisir de venir en connaissance de cause
-* nous améliorer en comparant leurs retours à nos intentions
-
-https://arpentages.github.io
+[Comment nous préparons cet arpentage](préparation-le-temps-des-bûchers.md)
 
 ## Quels besoins nourissons-nous en organisant cet arpentage ?
 
