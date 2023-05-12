@@ -19,10 +19,11 @@ https://arpentages.github.io
 
 Pas besoin d'avoir acheté le livre ni de l'avoir lu avant. Les quelques pages à lire seront envoyées lors de l'évènement.
 
-## Ne venez pas si
-* Vous êtes mal à l'aise avec le paganisme
-* Vous êtes mal à l'aise avec le concept de sorcière
-* Vous détestez le moyen age
+## Ce qui pourrait vous déplaire
+Prenez soin de vous. Ne venez pas si vos convictions peuvent être heurtées par une vision positive :
+* du paganisme,
+* des sorcières,
+* du moyen age.
 
 [Comment nous préparons cet arpentage](préparation-le-temps-des-bûchers.md)
 
