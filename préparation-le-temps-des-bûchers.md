@@ -1,21 +1,11 @@
-# Ordre du jour
-
-- Contacts et dates
-- Première(s) diffusion(s)
-- Ajouter les 3 questions à se poser dans chaque lecture d'un arpentage
-
-- Proposition de texte alternatif :
-
-## Ce qui pourrait vous déplaire
-Une vision positive :
-* du paganisme,
-* des sorcières,
-* du moyen age.
-
-Prenez soin de vous en ne venant pas si ces idées peuvent heurter vos convictions.
-
-
 # Se préparer à arpenter _Le temps des bûchers_ de Starhawk
+
+## Reste à faire
+
+- Première(s) diffusion(s)
+- Les 3 questions à se poser dans l'arpentage
+
+## Historique
 
 - 15 février 2023 : [1<sup>er</sup> Test d'arpentage de 4 pages](2023-02-15-notes-de-travail.md)
 - 22 février 2023 : [2<sup>e</sup> Test de 4 pages](2023-02-22-préparation_le_temps_des_bûchers.md)
@@ -26,7 +16,7 @@ Prenez soin de vous en ne venant pas si ces idées peuvent heurter vos convictio
 - 12 avril 2023 : Contacts - deux marques d'intérêt. On contacte d'autres participantes potentielles pour fixer une date.
 - 26 avril 2023 : On propose deux dates aux intéressées : vendredi 2 juin 19h et dimanche 18 juin 19h30.
 - 5 mai 2023 : Aller-retour avec les intéressées pour la date et l'heure.
-- 12 mai 2023
+- 12 mai 2023 : Date définitive et phrases d'introduction de la page d'accueil.
 
 ## Nous publions nos notes pour :
 
