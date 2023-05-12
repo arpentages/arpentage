@@ -4,30 +4,25 @@
 
 _Nous survivons dans la culture de la distance. Pour transformer cette culture, nous devons la comprendre, trouver ses racines, connaître son histoire._ D'après Starhawk, _Le temps des bûchers_, 1982.(*)
 
-Découvrons cette penseuse écoféministe par un atelier de lecture collective de 2h en ligne le **dimanche 4 juin à 17h30**
+Découvrons cette pensée écoféministe par un atelier de lecture collective de 2h en ligne **dimanche 4 juin à 17h30**
 
-## Arpentage : 2h de lecture collective
-Arpenter un texte se déroule en trois étapes :
-* Répartir les pages entre les participantes
-* Lire de son coté les pages reçues
-* Restituer ensuite sa partie au groupe
+Pas besoin d'avoir acheté le livre ni de l'avoir parcouru avant. Chaque participante recevra quelque pages du texte lors de l'évènement. Nous lirons nos parties de notre coté puis mettrons en commun ce que nous en aurons compris.
+
+Cette technique s'appelle un [arpentage](arpentage-une-lecture-collective.md)
+
+### Intentions
 
 Nous espérons :
 * Rencontrer la pensée de l'autrice
 * Entendre d'autres recevoir son texte
 * S'entrainer à arpenter un texte
 
-## Arpenter _Le temps des bûchers_ de Starhawk
 
-Pas besoin d'avoir acheté le livre ni de l'avoir lu avant. Les quelques pages à lire seront envoyées lors de l'évènement.
-
-### Ce qui pourrait vous déplaire
+### Ce qui pourrait vous déplaire dans _Le temps des bûchers_ de Starhawk
 Prenez soin de vous. Ne venez pas si vos convictions peuvent être heurtées par une vision positive :
 * du paganisme,
 * des sorcières,
-* du moyen age.
-
-[Comment nous préparons cet arpentage](préparation-le-temps-des-bûchers.md)
+* du Moyen Âge.
 
 ### Quels besoins nourissons-nous en organisant cet arpentage ?
 
@@ -40,9 +35,11 @@ Pratiquer la technique d'arpentage : besoins d'apprentissage et d'action. Envie 
 
 Derrière le besoin de stimulation intellectuelle il y a une curiosité (besoin de connaissance) et un besoin d'accomplissement; d'apprentissage.
 
-## Sur l’usage du féminin dans cette page
+[Comment nous préparons cet arpentage](préparation-le-temps-des-bûchers.md)
 
-Nous utilisons le genre féminin comme marqueur grammatical du neutre.
+### Nous utilisons le féminin comme neutre
+
+_Sur l’usage du féminin dans ces pages._ Nous utilisons le genre féminin comme marqueur grammatical du neutre.
 Il ne faut pas bien sûr y voir de volonté d’exclusion des hommes ou des personnes non binaires.
 Ni Philippe ni Fred, les organisatrices, ne s’identifient d’ailleurs comme femmes.
 
