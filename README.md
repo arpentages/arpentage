@@ -28,12 +28,11 @@ Pas besoin d'avoir acheté le livre ni de l'avoir lu avant. Les quelques pages �
 
 ## Quels besoins nourissons-nous en organisant cet arpentage ?
 
-Fred (iel/il/elle) : besoin de connexion avec des personnes avec qui j'aurais des afinités
-besoin de stimulation intellectuelle
-Derrière le besoin de stimulation intellectuelle, il y a un besoin de ressourcement par la connaissance et de d'accomplissement de soi par l'apprentissage. Et un besoin de contribution à la vie des autres.
+_Fred (iel/il/elle)_ : besoin de connexion avec des personnes avec qui j'aurais des afinités.
+Besoin de stimulation intellectuelle.
+Derrière le besoin de stimulation intellectuelle, il y a un besoin de ressourcement par la connaissance et d'accomplissement de soi par l'apprentissage. Et un besoin de contribution à la vie des autres.
 
-Philippe (il) : besoin de stimulation intellectuelle (creuser le texte de Starhawk)
-Pratiquer la technique d'arpentage : besoins d'apprentissage et d'action. Envie de revivre la plaisir de la pratique de la technique d'arpentage.
+_Philippe (il)_ : besoin de stimulation intellectuelle (creuser le texte de Starhawk).
+Pratiquer la technique d'arpentage : besoins d'apprentissage et d'action. Envie de revivre le plaisir de la pratique de la technique d'arpentage.
 
-Derrière le besoin de stimulation intellectuelle il y a une curiosité (besoin de connaissance) et un besoin d'accomplissement.
-Apprentissage
+Derrière le besoin de stimulation intellectuelle il y a une curiosité (besoin de connaissance) et un besoin d'accomplissement; d'apprentissage.
