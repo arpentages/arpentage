@@ -1,8 +1,12 @@
-_Sur l’usage du féminin dans cette page_ : nous utilisons le genre féminin comme marqueur grammatical du neutre.
-Il ne faut pas bien sûr y voir de volonté d’exclusion des hommes ou des personnes non binaires.
-Ni Philippe ni Fred, les organisatrices, ne s’identifient d’ailleurs comme femmes.
+# Atelier _Le temps des bûchers_
 
-# Arpentage : 2h de lecture collective
+## Découvrir les origines de notre culture de la distance
+
+_Nous survivons dans la culture de la distance. Pour transformer cette culture, nous devons la comprendre, trouver ses racines, connaître son histoire._ D'après Starhawk, _Le temps des bûchers_, 1982.(*)
+
+Découvrons cette penseuse écoféministe par un atelier de lecture collective de 2h en ligne le **dimanche 4 juin à 17h30**
+
+## Arpentage : 2h de lecture collective
 Arpenter un texte se déroule en trois étapes :
 * Répartir les pages entre les participantes
 * Lire de son coté les pages reçues
@@ -13,13 +17,11 @@ Nous espérons :
 * Entendre d'autres recevoir son texte
 * S'entrainer à arpenter un texte
 
-https://arpentages.github.io
-
-# Arpenter _Le temps des bûchers_ de Starhawk
+## Arpenter _Le temps des bûchers_ de Starhawk
 
 Pas besoin d'avoir acheté le livre ni de l'avoir lu avant. Les quelques pages à lire seront envoyées lors de l'évènement.
 
-## Ce qui pourrait vous déplaire
+### Ce qui pourrait vous déplaire
 Prenez soin de vous. Ne venez pas si vos convictions peuvent être heurtées par une vision positive :
 * du paganisme,
 * des sorcières,
@@ -27,7 +29,7 @@ Prenez soin de vous. Ne venez pas si vos convictions peuvent être heurtées par
 
 [Comment nous préparons cet arpentage](préparation-le-temps-des-bûchers.md)
 
-## Quels besoins nourissons-nous en organisant cet arpentage ?
+### Quels besoins nourissons-nous en organisant cet arpentage ?
 
 _Fred (iel/il/elle)_ : besoin de connexion avec des personnes avec qui j'aurais des afinités.
 Besoin de stimulation intellectuelle.
@@ -37,3 +39,11 @@ _Philippe (il)_ : besoin de stimulation intellectuelle (creuser le texte de Star
 Pratiquer la technique d'arpentage : besoins d'apprentissage et d'action. Envie de revivre le plaisir de la pratique de la technique d'arpentage.
 
 Derrière le besoin de stimulation intellectuelle il y a une curiosité (besoin de connaissance) et un besoin d'accomplissement; d'apprentissage.
+
+## Sur l’usage du féminin dans cette page
+
+Nous utilisons le genre féminin comme marqueur grammatical du neutre.
+Il ne faut pas bien sûr y voir de volonté d’exclusion des hommes ou des personnes non binaires.
+Ni Philippe ni Fred, les organisatrices, ne s’identifient d’ailleurs comme femmes.
+
+(*) Texte intégral : Nous survivons encore, dans la culture de la distance ; pour combien de temps, nul ne le sait. Mais pour transformer cette culture intelligemment, nous devons la comprendre, trouver ses racines, connaître son histoire.
