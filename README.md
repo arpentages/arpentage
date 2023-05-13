@@ -6,7 +6,7 @@ _Nous survivons dans une culture de la distance. Pour transformer cette culture,
 
 Découvrons cette pensée écoféministe par un atelier de lecture collective de 2h en ligne **dimanche 4 juin à 17h30**
 
-Pas besoin d'avoir acheté le livre ni de l'avoir parcouru avant. Chaque participante recevra quelque pages du texte lors de l'évènement. Nous lirons nos parties de notre coté puis mettrons en commun ce que nous en aurons compris.
+Pas besoin d'avoir acheté le livre ni de l'avoir parcouru avant. Chaque participante recevra quelque pages du texte lors de l'évènement. Nous lirons nos parties individuellement puis mettrons en commun ce que nous en aurons compris.
 
 Cette technique s'appelle un [arpentage](arpentage-une-lecture-collective.md)
 
