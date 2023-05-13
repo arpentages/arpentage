@@ -4,6 +4,7 @@
 
 - Première(s) diffusion(s)
 - Les 3 questions à se poser dans l'arpentage
+- Zoom demande un mot de passe
 
 ## Historique
 
