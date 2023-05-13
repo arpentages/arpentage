@@ -8,9 +8,9 @@ _Nous survivons dans une culture de la distance. Pour transformer cette culture,
 
 Découvrons cette pensée écoféministe par un atelier de lecture collective de 2h en ligne **dimanche 4 juin à 17h30**
 
-Pas besoin d'avoir acheté le livre ni de l'avoir parcouru avant. Chaque participante recevra quelque pages du texte lors de l'évènement. Nous lirons nos parties individuellement puis mettrons en commun ce que nous en aurons compris.
+Pas besoin d'avoir acheté le livre ni de l'avoir parcouru avant. Chaque personne recevra quelque pages du texte lors de l'évènement. Nous lirons nos parties individuellement puis mettrons en commun ce que nous en aurons compris.
 
-Cette technique de lecture est un [arpentage](arpentage-une-lecture-collective.md)
+Cette technique de lecture s’appelle un [arpentage](arpentage-une-lecture-collective.md)
 
 ### Intentions
 
@@ -21,10 +21,13 @@ Nous espérons :
 
 
 ### Ce qui pourrait vous déplaire dans _Le temps des bûchers_ de Starhawk
-Prenez soin de vous. Ne venez pas si vos convictions peuvent être heurtées par une vision positive :
-* du paganisme,
-* des sorcières,
-* du Moyen Âge.
+_Le temps des bûchers_ véhicule une vision positive des sujets suivants :
+
+* le paganisme,
+* les sorcières,
+* le Moyen Âge.
+
+Prenez soin de vous, ne venez pas si cela peut heurter vos convictions.
 
 ### Quels besoins nourissons-nous en organisant cet arpentage ?
 
@@ -37,10 +40,5 @@ Pratiquer la technique d'arpentage : besoins d'apprentissage et d'action. Envie 
 
 Derrière le besoin de stimulation intellectuelle il y a une curiosité (besoin de connaissance) et un besoin d'accomplissement; d'apprentissage.
 
-[Comment nous préparons cet arpentage](préparation-le-temps-des-bûchers.md)
-
-### Nous utilisons le féminin comme neutre
-
-_Sur l’usage du féminin dans ces pages._ Nous utilisons le genre féminin comme marqueur grammatical du neutre.
-Il ne faut pas bien sûr y voir de volonté d’exclusion des hommes ou des personnes non binaires.
-Ni Philippe ni Fred, les organisatrices, ne s’identifient d’ailleurs comme femmes.
+[Comment nous préparons cet arpentage](préparation-le-temps-des-bûchers.md)  
+[Nous utilisons le féminin comme neutre](nous-utilisons-le-féminin-comme-neutre.md)
