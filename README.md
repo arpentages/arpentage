@@ -40,5 +40,7 @@ Pratiquer la technique d'arpentage : besoins d'apprentissage et d'action. Envie 
 
 Derrière le besoin de stimulation intellectuelle il y a une curiosité (besoin de connaissance) et un besoin d'accomplissement; d'apprentissage.
 
-[Comment nous préparons cet arpentage](préparation-le-temps-des-bûchers.md)  
-[Nous utilisons le féminin comme neutre](nous-utilisons-le-féminin-comme-neutre.md)
+### À propos de cette initiative
+
+- [Comment nous préparons cet arpentage](préparation-le-temps-des-bûchers.md)
+- [Nous utilisons le féminin comme neutre](nous-utilisons-le-féminin-comme-neutre.md)
