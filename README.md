@@ -33,7 +33,7 @@ Prenez soin de vous, ne venez pas si cela peut heurter vos convictions.
 
 ### Comment participer
 
-Pour recevoir le lien de participation, vous pouvez [nous laisser votre adresse mail](https://tally.so#tally-open=wb99W1&tally-auto-close=1000) ou contacter une organisatrice par un autre moyen si vous préférez.
+Vous pouvez recevoir le lien de participation [par mail](https://tally.so#tally-open=wb99W1&tally-auto-close=1000) ou contacter directement une organisatrice.
 
 ### Quels besoins nourissons-nous en organisant cet arpentage ?
 
