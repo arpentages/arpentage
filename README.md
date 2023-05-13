@@ -2,8 +2,9 @@
 
 ## Découvrir les origines de notre culture de la distance
 
-> Nous survivons dans une culture de la distance. Pour transformer cette culture, nous devons la comprendre, trouver ses racines, connaître son histoire. Parce que le passé est toujours vivant dans le présent.  
-> [D'après Starhawk, _Le temps des bûchers_, 1982.[1]](citations-le-temps-des-bûchers.md)
+> Nous survivons dans la culture de la distance ; pour combien de temps, nul ne le sait. Mais pour transformer cette culture intelligemment, nous devons la comprendre, trouver ses racines, connaître son histoire - parce que le passé est toujours vivant dans le présent.
+
+D'après [_Le temps des bûchers_, Starhawk,  1982.[1]](citations-le-temps-des-bûchers.md)
 
 ![Manifestation](couverture-rêver-l-obscur-500.jpg)
 
