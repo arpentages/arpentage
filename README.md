@@ -2,7 +2,7 @@
 
 ## Découvrir les origines de notre culture de la distance
 
-_Nous survivons dans la culture de la distance. Pour transformer cette culture, nous devons la comprendre, trouver ses racines, connaître son histoire._ D'après Starhawk, _Le temps des bûchers_, 1982.(*)
+_Nous survivons dans une culture de la distance. Pour transformer cette culture, nous devons la comprendre, trouver ses racines, connaître son histoire. Parce que le passé est toujours vivant dans le présent._ [D'après Starhawk, _Le temps des bûchers_, 1982.[1]](citations-le-temps-des-bûchers.md)
 
 Découvrons cette pensée écoféministe par un atelier de lecture collective de 2h en ligne **dimanche 4 juin à 17h30**
 
@@ -42,5 +42,3 @@ Derrière le besoin de stimulation intellectuelle il y a une curiosité (besoin 
 _Sur l’usage du féminin dans ces pages._ Nous utilisons le genre féminin comme marqueur grammatical du neutre.
 Il ne faut pas bien sûr y voir de volonté d’exclusion des hommes ou des personnes non binaires.
 Ni Philippe ni Fred, les organisatrices, ne s’identifient d’ailleurs comme femmes.
-
-(*) Texte intégral : Nous survivons encore, dans la culture de la distance ; pour combien de temps, nul ne le sait. Mais pour transformer cette culture intelligemment, nous devons la comprendre, trouver ses racines, connaître son histoire.
