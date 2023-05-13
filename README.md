@@ -1,16 +1,16 @@
-![Manifestation](couverture-rêver-l-obscur-500.jpg)
-
 # Atelier _Le temps des bûchers_
 
 ## Découvrir les origines de notre culture de la distance
 
 _Nous survivons dans une culture de la distance. Pour transformer cette culture, nous devons la comprendre, trouver ses racines, connaître son histoire. Parce que le passé est toujours vivant dans le présent._ [D'après Starhawk, _Le temps des bûchers_, 1982.[1]](citations-le-temps-des-bûchers.md)
 
+![Manifestation](couverture-rêver-l-obscur-500.jpg)
+
 Découvrons cette pensée écoféministe par un atelier de lecture collective de 2h en ligne **dimanche 4 juin à 17h30**
 
 Pas besoin d'avoir acheté le livre ni de l'avoir parcouru avant. Chaque participante recevra quelque pages du texte lors de l'évènement. Nous lirons nos parties individuellement puis mettrons en commun ce que nous en aurons compris.
 
-Cette technique s'appelle un [arpentage](arpentage-une-lecture-collective.md)
+Cette technique de lecture est un [arpentage](arpentage-une-lecture-collective.md)
 
 ### Intentions
 
