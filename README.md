@@ -1,3 +1,5 @@
+![Manifestation](couverture-rêver-l-obscur-500.jpg)
+
 # Atelier _Le temps des bûchers_
 
 ## Découvrir les origines de notre culture de la distance
