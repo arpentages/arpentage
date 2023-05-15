@@ -6,4 +6,4 @@ Avec Philippe, nous organisons une lecture collective sur Le temps des bûchers,
 
 ## Message diffusé ?
 
-Avec Philippe, nous organisons une lecture collective sur Le temps des bûchers, une mise en perspective écoféministe des ruptures du Moyen Age qui vérouillent nos rapports actuels à la nature et au genre par l'appropriation des ressources communes (enclosures), des connaissances (corporations) et des croyances (transcendence) : https://arpentages.github.io/
+Avec Philippe, nous organisons une lecture collective d'un texte qui nous a éclairé sur l'écoféminisme. À la fin du Moyen Age le triple mouvement d'appropriation des espaces (enclosures), des connaissances et des croyances marginalise des femmes et soumet la nature. Le _Temps des bûchers_ met en perspective ces ruptures qui conditionnent encore nos rapports au genre et à l'écologie : https://arpentages.github.io/
