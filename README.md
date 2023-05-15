@@ -50,3 +50,10 @@ Revivre le plaisir de la pratique de l'arpentage.
 - [Ce que cette organisation nous apporte](besoins-nourris.md)
 - [Comment nous préparons cet arpentage](préparation-le-temps-des-bûchers.md)
 - [Nous utilisons le féminin comme neutre](nous-utilisons-le-féminin-comme-neutre.md)
+
+### En réponse à des questions déjà posées :
+
+* Je peux assister à la session sans participer à la lecture elle-même, pour observer.
+* Je peux éteindre ma caméra.
+* Je peux diffuser les liens de connexions à des personne que je jugerais pertinentes.
+* Ma participation est légitime dès lors que je dispose du lien de connexion.
