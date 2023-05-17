@@ -1,7 +1,7 @@
 # Arpentage : 2h de lecture collective
 
 Arpenter un texte se déroule en trois étapes :
-* Répartir les pages entre les participantes.
+* [Répartir](répartir-texte.md) les pages entre les participantes.
 * Lire de son coté les pages reçues.
 * Restituer ensuite sa partie au groupe.
 
