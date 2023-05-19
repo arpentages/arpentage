@@ -10,5 +10,4 @@ Avec Philippe, nous organisons le dimanche 4 juin 17h30 une lecture collective d
 
 ## Autre message
 
-Je coorganise une lecture collective (arpentage) sur une perscpective historique des liens entre féminisme et écologie par une leader du mouvement écoféministe et altermondialiste. En ligne et gratuit le dimanche 4 juin à 17h30 https://arpentages.github.io/
-https://us02web.zoom.us/j/82612530329?pwd=b3pTaDhOWXRoSXBYT1RLWmZpMTh6dz09 pour se connecter.
+Je coorganise une lecture collective (arpentage) sur une perspective historique des liens entre féminisme et écologie par une leader du mouvement écoféministe et altermondialiste. En ligne et gratuit dimanche 4 juin à 17h30 - https://us02web.zoom.us/j/82612530329?pwd=b3pTaDhOWXRoSXBYT1RLWmZpMTh6dz09 pour se connecter et https://arpentages.github.io/ pour les explications. Au cas où ça intéresserait quelqu'un·e ici.
