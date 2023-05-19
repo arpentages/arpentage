@@ -18,9 +18,17 @@
 - 26 avril 2023 : On propose deux dates aux intéressées : vendredi 2 juin 19h et dimanche 18 juin 19h30.
 - 5 mai 2023 : Aller-retour avec les intéressées pour la date et l'heure.
 - 12 mai 2023 : Date définitive et phrases d'introduction de la page d'accueil.
+- 13 et 15 mai 2023 : Rédaction du message de diffusion et première diffusion.
+- 19 mai 2023 : Diffusion et montage vidéo du découpage des page.
 
 ## Nous publions nos notes pour :
 
 * rendre visible la manière dont nous travaillons
 * permettre aux participantes de choisir de venir en connaissance de cause
 * nous améliorer en comparant leurs retours à nos intentions
+
+## Edition de la vidéo avec openshot sous Linux
+
+Ouvre 5 pistes au départ, mais c'est ok de fermer 4 pistes et de travailler sur celle qui reste.
+Glisser-déposer la vidéo sur la piste.
+Outil ciseaux permet de couper.
