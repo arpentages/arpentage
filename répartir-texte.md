@@ -1,5 +1,7 @@
 # Répartir les pages
 
+Plusieurs méthodes possibles.
+
 ## Intervalle de pages
 
 Distribuer le texte complet et assigner des numéros de pages :
