@@ -41,6 +41,7 @@ Vous pouvez recevoir le lien de participation [par mail](https://tally.so#tally-
 * Je peux éteindre ma caméra.
 * Je peux diffuser les liens de connexions à des personne que je jugerais pertinentes.
 * Ma participation est légitime dès lors que je dispose du lien de connexion.
+* Je peux recevoir en avance un morceau d'arpentage si j'ai envie de le préparer.
  
 ### Précisions par Fred (iel/il/elle) et _Philippe (il)_
 
