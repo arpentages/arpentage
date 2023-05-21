@@ -37,16 +37,19 @@ Vous pouvez recevoir le lien de participation [par mail](https://tally.so#tally-
 
 ### En réponse à des questions déjà posées :
 
-* Je peux assister à la session sans participer à la lecture elle-même, pour observer.
+* Je peux venir observer sans participer à la lecture elle-même.
 * Je peux éteindre ma caméra.
-* Je peux diffuser les liens de connexions à des personne que je jugerais pertinentes.
+* Je peux diffuser les liens de connexions.
 * Ma participation est légitime dès lors que je dispose du lien de connexion.
-* Je peux recevoir en avance un morceau d'arpentage si j'ai envie de le préparer.
+* Je peux recevoir en avance un morceau d'arpentage, pour m'en faire une idée ou le préparer.
  
 ### Précisions par Fred (iel/il/elle) et _Philippe (il)_
 
 - [Ce que cette organisation nous apporte](besoins-nourris.md)
-- [Comment nous préparons cet arpentage](préparation-le-temps-des-bûchers.md)
 - [Nous utilisons le féminin comme neutre](nous-utilisons-le-féminin-comme-neutre.md)
+
+## Comment préparer un arpentage
+- [Comment nous préparons cet arpentage](préparation-le-temps-des-bûchers.md)
+- [Comment répartir les pages](répartir-pages.md)
 
 
