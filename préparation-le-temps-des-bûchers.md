@@ -2,9 +2,7 @@
 
 ## Reste à faire
 
-- Première(s) diffusion(s)
 - Les 3 questions à se poser dans l'arpentage
-- Zoom demande un mot de passe
 
 ## Historique
 
@@ -16,16 +14,25 @@
 - 5 avril 2023 : Point sur les contacts - pas de réponse pour l’instant, on contacte donc d’autres personnes
 - 12 avril 2023 : Contacts - deux marques d'intérêt. On contacte d'autres participantes potentielles pour fixer une date.
 - 26 avril 2023 : On propose deux dates aux intéressées : vendredi 2 juin 19h et dimanche 18 juin 19h30.
-- 5 mai 2023 : Aller-retour avec les intéressées pour la date et l'heure.
-- 12 mai 2023 : Date définitive et phrases d'introduction de la page d'accueil.
+- 5 mai 2023 : Aller-retour avec les intéressées pour l'heure et la date (3 nouvelles dates proposées).
+- 12 mai 2023 : Date définitive et section d'introduction de la page d'accueil.
 - 13 et 15 mai 2023 : Rédaction du message de diffusion et première diffusion.
-- 19 mai 2023 : Diffusion et montage vidéo du découpage des page.
+- 19 mai 2023 : Poursuite de la diffusion et montage vidéo du découpage des page.
 
 ## Nous publions nos notes pour :
 
 * rendre visible la manière dont nous travaillons
 * permettre aux participantes de choisir de venir en connaissance de cause
 * nous améliorer en comparant leurs retours à nos intentions
+
+## Diffusion de lien Zoom
+
+Pour ne pas avoir à entrer un mot de passe lors de la connexion, utiliser le lien qui contient un hash après _pwd_, du type
+> https://us02web.zoom.us/j/12345678910?pwd=longueSuiteDeLettreEtDeChiffres1
+
+plutôt que celui qui contient le mot de passe en clair, du type
+
+> https://us02web.zoom.us/j/12345678910?pwd=123456
 
 ## Edition de la vidéo avec openshot sous Linux
 
