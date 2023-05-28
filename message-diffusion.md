@@ -18,3 +18,8 @@ Une lecture collective (arpentage) d'une perspective historique des liens entre 
 
 Une lecture collective (arpentage) d'une perspective historique des liens entre féminisme et écologie  écrite en 1982 par une pionnière de l'écoféminisme aura lieu en ligne dimanche 4 juin à 17h30 (gratuit) - https://zoom... pour se connecter et https://arpentages.github.io/ pour les explications. Au cas où ça intéresserait quelqu'un·e ici.
 
+## Troisième message diffusé
+
+Hello !
+
+On organise un atelier de lecture collective (arpentage). Le texte offre une perspective historique des liens entre féminisme et écologie. Il a été écrit en 1982 par une pionnière de l'écoféminisme. L’atelier aura lieu en ligne dimanche 4 juin à 17h30 (gratuit) - https://zoom... pour se connecter et https://arpentages.github.io/ pour les explications. Si ça t’intéresse tu es la bienvenue.
