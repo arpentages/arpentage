@@ -22,4 +22,4 @@ Une lecture collective (arpentage) d'une perspective historique des liens entre 
 
 Hello !
 
-On organise un atelier de lecture collective (arpentage). Le texte parle de l'origine des liens entre féminisme et écologie. Une pionnière de l'écoféminisme l'as écrit en 1982. L’atelier aura lieu dimanche 4 juin à 17h30 sur https://zoom... Les détails : https://arpentages.github.io/ . Tu es la bienvenue. Le lien est diffusable à toute personne intéressée.
+On organise un atelier de lecture collective (arpentage). Le texte parle de l'origine des liens entre féminisme et écologie. Une pionnière de l'écoféminisme l'as écrit en 1982. L’atelier aura lieu dimanche 4 juin à 17h30 sur https://zoom... Les détails : https://arpentages.github.io/. Tu es la bienvenue. Le lien est diffusable à toute personne intéressée.
