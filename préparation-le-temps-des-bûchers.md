@@ -1,9 +1,5 @@
 # Se préparer à arpenter _Le temps des bûchers_ de Starhawk
 
-## Reste à faire
-
-- Les 3 questions à se poser dans l'arpentage
-
 ## Historique
 
 - 15 février 2023 : [1<sup>er</sup> Test d'arpentage de 4 pages](2023-02-15-notes-de-travail.md)
