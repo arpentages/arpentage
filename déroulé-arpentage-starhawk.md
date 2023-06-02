@@ -2,6 +2,10 @@
 - avoir découpé les 32 premières pages
 - vérifier pour les break-out rooms
 
+# Le jour même
+
+Rappel par MP / mail / sur la marchéplace
+
 # Déroulé
 | quand | quoi                                                            |
 |-------|-----------------------------------------------------------------|
