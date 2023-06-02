@@ -19,8 +19,8 @@
 |       | - le message principal de l’autrice pour cette partie                        |
 |       | - qu’est-ce que je n’ai pas compris / qu’est-ce que j’aurais envie de savoir |
 |       | - qu’est-ce qui m’a le plus surpris                                          |
-|       |                                                                              |
-|       | restitution 10 minutes par personne                                          |
+| ...   | ...                                                                          |
+|       | restitution 10 minutes par personne (ou 12 minutes par binômes)              |
 |       | Questions sur la participation des personnes :                               |
 |       | - envie d’avoir moins de pages que la moyenne                                |
 |       | - envie de passer plus vers le début / la fin du livre                       |
