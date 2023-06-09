@@ -9,10 +9,9 @@ Cette technique d'éducation populaire nait au XIXème siècle où des cercles o
 * se cotiser pour acheter le livre,
 * se soutenir pour le comprendre.
 
-## Comment lire ?
-
-La lecture se concentre soit sur la compréhension du texte soit sur les échos personnels qu'il suscite.
-Elle se fait en individuel comme en groupe de deux à quatre. Ses modalités diffèrent selon les milieux ;
+Aujourd'hui la lecture se concentre soit sur la compréhension du texte soit sur les échos personnels qu'il suscite :
 * [Veille féministe](https://www.facebook.com/laveillefeministe/) propose trois points : idée directrice, incompréhension et surprise.
-* [Réseau grappe](https://www.reseaugrappe.org/arpentage-technique-de-lecture-et-danalyse-collective/) invite à voir ce que les lectrices partagent et ce qui diverge.
+* [Réseau grappe](https://www.reseaugrappe.org/arpentage-technique-de-lecture-et-danalyse-collective/) invite à voir ce qui est partagé et ce qui diverge, entre chapitres comme entre lectrices
 * [Action populaire](https://infos.actionpopulaire.fr/fiches/organiser-un-arpentage/) met l'accent sur le lien du texte avec l'expérience personnelle des participantes.
+
+Lire se fait en individuel comme en groupe de deux à quatre.
