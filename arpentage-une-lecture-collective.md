@@ -14,4 +14,6 @@ Aujourd'hui la lecture se concentre soit sur la compréhension du texte soit sur
 * [Réseau grappe](https://www.reseaugrappe.org/arpentage-technique-de-lecture-et-danalyse-collective/) invite à voir ce qui est partagé et ce qui diverge, entre chapitres comme entre lectrices
 * [Action populaire](https://infos.actionpopulaire.fr/fiches/organiser-un-arpentage/) met l'accent sur le lien du texte avec l'expérience personnelle des participantes.
 
+Voir aussi [ressources alternatives](https://www.ressources-alternatives.org/tag/arpentage/)
+
 Lire se fait en individuel comme en groupe de deux à quatre.
