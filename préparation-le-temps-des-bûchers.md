@@ -13,7 +13,8 @@
 - 5 mai 2023 : Aller-retour avec les intéressées pour l'heure et la date (3 nouvelles dates proposées).
 - 12 mai 2023 : Date définitive et section d'introduction de la page d'accueil.
 - 13 et 15 mai 2023 : Rédaction du message de diffusion et première diffusion.
-- 19 mai 2023 : Poursuite de la diffusion et montage vidéo du découpage des page.
+- 19 et 26 mai 2023 : Poursuite de la diffusion et montage vidéo du découpage des pages.
+- 2 juin 2023 : Derniers ajustements avant l'arpentage du week-end.
 
 ## Nous publions nos notes pour :
 
