@@ -73,5 +73,5 @@ Appropriation de la médecine par un corps autoproclamé, très violent : saign�
 
 C’est au dix-septième que cette bascule des femmes aux hommes se fait.
 
-À Londres, 12 médecins, 60 000 habitants.
-Un siècle plus tard, 48 médecins, 600 000 habitants.
+À Londres, 12 médecins pour 60 000 habitants en 1524.
+Un siècle plus tard, 43 médecins pour ~400 000 habitants.
