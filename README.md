@@ -16,16 +16,15 @@ Vous pouvez recevoir le lien de participation [par mail](https://tally.so#tally-
 * Je peux diffuser les liens de connexions.
 * Ma participation est légitime dès lors que je dispose du lien de connexion.
 * Je peux recevoir en avance un morceau d'arpentage, pour m'en faire une idée ou le préparer.
+* Je peux faire la lecture en binôme.
  
-### Précisions par Fred (iel/il/elle) et _Philippe (il)_
-
-- [Ce que cette organisation nous apporte](besoins-nourris.md)
-- [Nous utilisons le féminin comme neutre](nous-utilisons-le-féminin-comme-neutre.md)
-
 # Arpentages précédents
 
 [Enclosures et expropriation des connaissances](atelier-starhawk-le-temps-des-buchers.md) - les racines de la pensée écoféministe.
+- [Ce que cette organisation apporte à _Fred (iel/il/elle)_ et _Philippe (il)_](besoins-nourris.md)
+- [Nous utilisons le féminin comme neutre](nous-utilisons-le-féminin-comme-neutre.md)
 - [Comment nous préparons cet arpentage](préparation-le-temps-des-bûchers.md)
 - [Comment répartir les pages](répartir-pages.md)
+
 
 
