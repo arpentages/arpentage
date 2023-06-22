@@ -9,14 +9,14 @@ Ses origines, sa mise en évidence, ses traitements.
 
 ![Modèle polyvagal 3 réponses à une menace, photot extraite de Le corps n'oublie rien](polyvagal-3-réponses-à-menace-250.jpg)
 
-> 1980 - un groupe de vétérans du Viêtnam [...] fait pression sur l'Association psychiatrique américaine pour la création d'un nouveau diagnostique : le syndrome de stress post-traumatique [...] (le fameux _DSM-III_, **M**anuel **D**iagnostique et **S**tatistique des troubles mentaux)
+> 1980 - un groupe de vétérans du Viêtnam [...] fait pression pour la création d'un nouveau diagnostique : le syndrome de stress post-traumatique [...] (le fameux _DSM-III_, **M**anuel **D**iagnostique et **S**tatistique des troubles mentaux)
 
-> 1982 - le manuel de psychiatrie classique disait que l'inceste était extrêmement rare aux Etats-Unis. [...] je me suis demandé comment quarante-sept d'entre elles - soit la moitié du pourcentage officiel - avaient pu trouver le chemin de mon bureau, dans les sous-sols de l'hôpital !
+> 1982 - le manuel de psychiatrie classique disait que l'inceste était extrêmement rare aux Etats-Unis. [...] je me suis demandé comment 47 d'entre elles - soit la moitié du pourcentage officiel - avaient pu trouver le chemin de mon bureau, dans les sous-sols de l'hôpital !
 
 
 > Pour qu'il y ai un vrai changement, le corps doit réaliser que le danger est passé
 
-> De nombreux traumatisés semblent rechercher des expériences qui effraieraient la plupart des gens, et se plaignent souvent d'une impression de vide et d'ennui quand ils ne sont pas en colère, sous perssion, ou pris par une activité dangereuse.
+> De nombreux traumatisés recherchent des expériences qui effraieraient la plupart des gens, et se plaignent d'une impression de vide et d'ennui quand ils ne sont pas en colère ou sous pression
 
 
 
