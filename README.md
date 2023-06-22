@@ -3,9 +3,11 @@
 
 # Arpenter _Le corps n'oublie rien_ de Bessel Van Der Kolk
 
-## Comprendre le syndrome de stress post-traumatique
+## Comprendre le stress post-traumatique
 
 Ses origines, sa mise en évidence, ses traitements.
+
+![Modèle polyvagal 3 réponses à une menace, photot extraite de Le corps n'oublie rien](polyvagal-3-réponses-à-menace-250.jpg)
 
 > 1980 - un groupe de vétérans du Viêtnam [...] fait pression sur l'Association psychiatrique américaine pour la création d'un nouveau diagnostique : le syndrome de stress post-traumatique [...] (le fameux _DSM-III_, **M**anuel **D**iagnostique et **S**tatistique des troubles mentaux)
 
@@ -13,8 +15,6 @@ Ses origines, sa mise en évidence, ses traitements.
 
 
 > Pour qu'il y ai un vrai changement, le corps doit réaliser que le danger est passé
-
-![Modèle polyvagal 3 réponses à une menace](polyvagal-3-réponses-à-menace-250.jpg)
 
 > De nombreux traumatisés semblent rechercher des expériences qui effraieraient la plupart des gens, et se plaignent souvent d'une impression de vide et d'ennui quand ils ne sont pas en colère, sous perssion, ou pris par une activité dangereuse.
 
