@@ -11,6 +11,8 @@ Ses origines, sa mise en évidence, ses traitements.
 
 > 1982 - le manuel de psychiatrie classique disait que l'inceste était extrêmement rare aux Etats-Unis. D'après lui, seule une femme sur un million en était victime. L'amérique comptant alors 100 millions de citoyennes, je me suis demandé comment quarante-sept d'entre elles - soit la moitié du pourcentage officiel - avaient pu trouver le chemin de mon bureau, dans les sous-sols de l'hôpital !
 
+![Marche autour du siège de Boeing, Etat de Washington, 1er août 1983](couverture-rêver-l-obscur-500.jpg)
+
 > Pour qu'il y ai un vrai changement, le corps doit réaliser que le danger est passé
 
 > De nombreux traumatisés semblent rechercher des expériences qui effraieraient la plupart des gens, et se plaignent souvent d'une impression de vide et d'ennui quand ils ne sont pas en colère, sous perssion, ou pris par une activité dangereuse.
