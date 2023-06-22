@@ -8,7 +8,7 @@ Entrer dans la pensée écoféministe par une lecture collective.
 
 [_Le temps des bûchers_, Starhawk,  1982.[1]](citations-le-temps-des-bûchers.md) (extraits)
 
-![Manifestation](couverture-rêver-l-obscur-500.jpg)
+![Marche autour du siège de Boeing, Kent, Etat de Washington, 1er août 1983](couverture-rêver-l-obscur-500.jpg)
 
 Chaque personne lit une partie du texte de son coté. Nous mettons ensuite en commun nos compréhensions par la technique de l'[arpentage](arpentage-une-lecture-collective.md)
 
