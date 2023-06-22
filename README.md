@@ -9,17 +9,15 @@ Ses origines, sa mise en évidence, ses traitements.
 
 > 1980 - un groupe de vétérans du Viêtnam [...] fait pression sur l'Association psychiatrique américaine pour la création d'un nouveau diagnostique : le syndrome de stress post-traumatique [...] (le fameux _DSM-III_, **M**anuel **D**iagnostique et **S**tatistique des troubles mentaux)
 
-> 1982 - le manuel de psychiatrie classique disait que l'inceste était extrêmement rare aux Etats-Unis. D'après lui, seule une femme sur un million en était victime. L'amérique comptant alors 100 millions de citoyennes, je me suis demandé comment quarante-sept d'entre elles - soit la moitié du pourcentage officiel - avaient pu trouver le chemin de mon bureau, dans les sous-sols de l'hôpital !
-
-
-![Modèle polyvagal - 3 réponses à une menace](polyvagal - 3 réponses à menace 500.jpg)
+> 1982 - le manuel de psychiatrie classique disait que l'inceste était extrêmement rare aux Etats-Unis. [...] je me suis demandé comment quarante-sept d'entre elles - soit la moitié du pourcentage officiel - avaient pu trouver le chemin de mon bureau, dans les sous-sols de l'hôpital !
 
 
 > Pour qu'il y ai un vrai changement, le corps doit réaliser que le danger est passé
 
+![Modèle polyvagal 3 réponses à une menace](polyvagal-3-réponses-à-menace-250.jpg)
+
 > De nombreux traumatisés semblent rechercher des expériences qui effraieraient la plupart des gens, et se plaignent souvent d'une impression de vide et d'ennui quand ils ne sont pas en colère, sous perssion, ou pris par une activité dangereuse.
 
-![Modèle polyvagal - 3 réponses à une menace](polyvagal - 3 réponses à menace 500.jpg)
 
 
 ### Déroulement
@@ -41,7 +39,7 @@ Vous pouvez recevoir le lien de participation [par mail](https://tally.so#tally-
  
 # Arpentages précédents
 
-[Enclosures et expropriation des connaissances](atelier-starhawk-le-temps-des-buchers.md) - les racines de la pensée écoféministe.
+[Enclosures et expropriation des connaissances](atelier-starhawk-le-temps-des-buchers.md) - les racines de la pensée écoféministe (Starhawk).
 - [Ce que cette organisation apporte à _Fred (iel/il/elle)_ et _Philippe (il)_](besoins-nourris.md)
 - [Nous utilisons le féminin comme neutre](nous-utilisons-le-féminin-comme-neutre.md)
 - [Comment nous préparons cet arpentage](préparation-le-temps-des-bûchers.md)
